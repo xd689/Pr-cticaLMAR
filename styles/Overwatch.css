@@ -1,0 +1,14 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    padding: auto;
+    margin: auto;
+  }
+
+.show, .nav-pills{
+    background: #f16060 !important;
+}
+
+.nav-link{
+color: white;
+}

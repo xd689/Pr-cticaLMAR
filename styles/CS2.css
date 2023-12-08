@@ -1,0 +1,27 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    padding: auto;
+    margin: auto;
+  }
+
+.show, .nav-pills{
+    background: #f16060 !important;
+}
+
+.nav-link{
+color: white;
+}
+
+#Smokes{
+    width: 50%;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#Teams{
+    width: auto;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+}
