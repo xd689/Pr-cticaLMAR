@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="es" xml:base="https://xd689.github.io/Pr-cticaLMAR/">
+<id>https://xd689.github.io/Pr-cticaLMAR/</id>
+<title>PracticaLMAR Atom</title>
+<updated>2023-12-12T09:10:00+01:00</updated>
+<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/atom.xml">
+<author>
+<name>Pedro José Notario Miñano</name>
+<email>secundary9618@gmail.com</email>
+</author>
+<category term="Reviews inventadas"/>
+<contributor>
+<name>Mi teclado</name>
+<email>teclado1@gmail.com</email>
+<uri>https://www.linkedin.com/in/teclado1</uri>
+</contributor>
+<logo>imgs/logo.png</logo>
+<entry>
+<id>https://xd689.github.io/Pr-cticaLMAR/pages/Valorant.html</id>
+<title>Review de Valorant</title>
+<update>2023-12-12T09:10:00+01:00</update>
+<author>
+<name>Pedro José Notario Miñano</name>
+<email>secundary9618@gmail.com</email>
+</author>
+<summary>En esta página cutrona verás una review falsa de Valorant.</summary>
+<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/pages/Valorant.html"/>
+</entry>
+<entry>
+<id>https://xd689.github.io/Pr-cticaLMAR/pages/CS2.html</id>
+<title>Review de CS2</title>
+<update>2023-12-12T09:10:00+01:00</update>
+<author>
+<name>Pedro José Notario Miñano</name>
+<email>secundary9618@gmail.com</email>
+</author>
+<summary>En esta página cutrona verás una review falsa de Counter Strike 2.</summary>
+<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/pages/CS2.html"/>
+</entry>
+<entry>
+<id>https://xd689.github.io/Pr-cticaLMAR/pages/Overwatch.html</id>
+<title>Review de Overwatch</title>
+<update>2023-12-12T09:10:00+01:00</update>
+<author>
+<name>Pedro José Notario Miñano</name>
+<email>secundary9618@gmail.com</email>
+</author>
+<summary>En esta página cutrona verás una review falsa de Overwatch 2.</summary>
+<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/pages/Overwatch.html"/>
+</entry>
+</feed>
