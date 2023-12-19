@@ -16,13 +16,14 @@
     color: white;
 }
 
-section #Sindicacion{
+#Sindicacion {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 10px;
-    margin: 0 auto;
+    margin: auto;    
 }
+
 
 #GBD{
     display: flex;
