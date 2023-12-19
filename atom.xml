@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xml:base="https://xd689.github.io/Pr-cticaLMAR/">
 <id>https://xd689.github.io/Pr-cticaLMAR/</id>
-<title>PracticaLMAR Atom</title>
+<title>Práctica LMAR Atom</title>
 <updated>2023-12-12T09:10:00+01:00</updated>
 <link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/atom.xml"/>
 <author>
@@ -12,35 +12,35 @@
 <icon>../imgs/logo.png</icon>
 <entry>
 <id>https://xd689.github.io/Pr-cticaLMAR/</id>
-<title>Review de Valorant</title>
+<title>Información de GBD</title>
 <updated>2023-12-12T09:10:00+01:00</updated>
 <author>
 <name>Pedro José Notario Miñano</name>
 <email>secundary9618@gmail.com</email>
 </author>
-<summary>En esta página cutrona verás una review falsa de Valorant.</summary>
-<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/pages/Valorant.html"/>
+<summary>En esta página cutrona verás una página con información relevante sobre Base de Datos.</summary>
+<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/pages/GBD.html"/>
 </entry>
 <entry>
 <id>https://xd689.github.io/Pr-cticaLMAR/</id>
-<title>Review de CS2</title>
+<title>Información de LMAR</title>
 <updated>2023-12-12T09:15:00+01:00</updated>
 <author>
 <name>Pedro José Notario Miñano</name>
 <email>secundary9618@gmail.com</email>
 </author>
-<summary>En esta página cutrona verás una review falsa de Counter Strike 2.</summary>
-<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/pages/CS2.html"/>
+<summary>En esta página cutrona verás una página informativa sobre Lenguaje de Marcas.</summary>
+<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/pages/LMAR.html"/>
 </entry>
 <entry>
 <id>https://xd689.github.io/Pr-cticaLMAR/</id>
-<title>Review de Overwatch</title>
+<title>Información de FHW</title>
 <updated>2023-12-12T09:20:00+01:00</updated>
 <author>
 <name>Pedro José Notario Miñano</name>
 <email>secundary9618@gmail.com</email>
 </author>
-<summary>En esta página cutrona verás una review falsa de Overwatch 2.</summary>
-<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/pages/Overwatch.html"/>
+<summary>En esta página verás una página sobre Fundamentos de Hardware.</summary>
+<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/pages/FHW.html"/>
 </entry>
 </feed>
