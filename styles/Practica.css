@@ -1,6 +1,5 @@
 .grid-container {
     display: grid;
-    grid-template-columns: 33% 33% 33%;
     padding: auto;
     margin: auto;
   }
@@ -10,16 +9,16 @@
   }
 
 .show, .nav-pills{
-      background: #f16060 !important;
+      background: #312d2d;
   }
 
 .nav-link{
   color: white;
 }
 
-img{
-  width: auto;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+section #Sindicacion{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 10px;
 }
