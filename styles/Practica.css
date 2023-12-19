@@ -2,26 +2,26 @@
     display: grid;
     padding: auto;
     margin: auto;
-  }
+}
 
 #HomeIntro{
     font-size: 22px;
-  }
+}
 
 .show, .nav-pills{
-      background: #312d2d;
-  }
+    background: #312d2d;
+}
 
 .nav-link{
-  color: white;
+    color: white;
 }
 
 section #Sindicacion{
-display: flex;
-justify-content: center;
-align-items: center;
-gap: 10px;
-margin: auto;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: auto;    
 }
 
 #GBD{
