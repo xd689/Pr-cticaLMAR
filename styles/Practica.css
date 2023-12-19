@@ -24,7 +24,19 @@ gap: 10px;
 margin: auto;    
 }
 
-#listaGBD{
+#GBD{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#LMAR{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#FHW{
     display: flex;
     align-items: center;
     flex-direction: column;
