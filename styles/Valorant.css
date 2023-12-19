@@ -6,10 +6,19 @@
   }
 
 .show, .nav-pills{
-    background: #f16060 !important;
+    background: #525252;
 }
 
 .nav-link{
 color: white;
 }
 
+#listaGBD{
+    display: flex;
+    justify-content: center;
+}
+
+#listaSGBD{
+    display: flex;
+    justify-content: center;
+}
