@@ -29,7 +29,6 @@ section #Sindicacion{
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    height: 100vh;
 }
 
 #LMAR{
@@ -37,7 +36,6 @@ section #Sindicacion{
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    height: 100vh;
 }
 
 #FHW{
@@ -45,5 +43,4 @@ section #Sindicacion{
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    height: 100vh;
 }
